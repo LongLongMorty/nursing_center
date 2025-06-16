@@ -1,0 +1,397 @@
+2025-06-16 01:22:16.276  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-record/page
+2025-06-16 01:22:16.276  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/17
+2025-06-16 01:22:16.284  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:22:16.284  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:22:16.284  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:22:16.285  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:22:16.287  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:22:16.287  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:22:16.296  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:22:16.297  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:22:16.297  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:22:16.298  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:22:16.299  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:22:16.299  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:22:22.946  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/10
+2025-06-16 01:22:22.946  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:22:22.946  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:22:22.947  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:22:22.952  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:22:22.953  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-record/page
+2025-06-16 01:22:22.953  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:22:22.953  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:22:22.953  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:22:22.953  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:22:22.954  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:22:22.956  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:22:22.957  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:22:22.958  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:23:11.603  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer/page
+2025-06-16 01:23:11.603  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:23:11.603  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:23:11.604  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:23:11.608  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:23:11.609  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:23:11.609  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:23:51.112  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer/page
+2025-06-16 01:23:51.112  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:23:51.112  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:23:51.113  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:23:51.116  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:23:51.117  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:23:51.117  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:24:27.543  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/10
+2025-06-16 01:24:27.543  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-record/page
+2025-06-16 01:24:27.543  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:24:27.543  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:24:27.543  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:24:27.543  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:24:27.544  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:24:27.544  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:24:27.548  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:24:27.548  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:24:27.549  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:24:27.549  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:24:27.549  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:24:27.549  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:24:33.140  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-item/page
+2025-06-16 01:24:33.140  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:24:33.140  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:24:33.141  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:24:33.145  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:24:33.146  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:24:33.146  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:26:22.998  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/10
+2025-06-16 01:26:22.998  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:26:22.998  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:26:22.999  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:26:23.000  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-record/page
+2025-06-16 01:26:23.000  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:26:23.000  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:26:23.001  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:26:23.003  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:26:23.003  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:26:23.003  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:26:23.004  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:26:23.004  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:26:23.005  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:26:24.665  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-item/page
+2025-06-16 01:26:24.666  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:26:24.666  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:26:24.666  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:26:24.669  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:26:24.670  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:26:24.670  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:16.697  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/10
+2025-06-16 01:27:16.697  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:27:16.697  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:27:16.697  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-record/page
+2025-06-16 01:27:16.697  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:27:16.697  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:27:16.698  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:27:16.698  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:27:16.701  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:16.701  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:16.702  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:27:16.702  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:27:16.702  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:16.702  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:19.256  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/10
+2025-06-16 01:27:19.257  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:27:19.257  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:27:19.257  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:27:19.261  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:19.262  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:27:19.263  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:22.740  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-record/page
+2025-06-16 01:27:22.740  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:27:22.740  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:27:22.740  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/10
+2025-06-16 01:27:22.741  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:27:22.741  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:27:22.741  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:27:22.741  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:27:22.745  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:22.745  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:22.746  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:27:22.746  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:27:22.746  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:22.746  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:34.218  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer/page
+2025-06-16 01:27:34.218  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:27:34.218  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:27:34.219  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:27:34.222  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:34.223  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:27:34.223  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:46.687  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer/page
+2025-06-16 01:27:46.687  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:27:46.687  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:27:46.688  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:27:46.691  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:46.692  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:27:46.692  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:57.334  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-record/page
+2025-06-16 01:27:57.334  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/10
+2025-06-16 01:27:57.334  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:27:57.334  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:27:57.334  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:27:57.334  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:27:57.335  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:27:57.335  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:27:57.337  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:57.337  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:57.338  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:27:57.338  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:27:57.338  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:57.338  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:58.700  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-item/page
+2025-06-16 01:27:58.700  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:27:58.700  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:27:58.701  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:27:58.703  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:27:58.704  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:27:58.704  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:10.187  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 处理请求: POST /api/api/admin/customer-care/purchase/10
+2025-06-16 01:28:10.187  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:10.187  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:10.188  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:10.190  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:10.191  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:10.191  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:10.252  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.s.impl.CustomerCareServiceImpl     : 客户购买护理项目成功，客户ID: 10, 项目数量: 1
+2025-06-16 01:28:10.279  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/10
+2025-06-16 01:28:10.279  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:10.279  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:10.280  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:10.283  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:10.284  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:10.284  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:32.093  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-level/page
+2025-06-16 01:28:32.093  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:32.094  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:32.094  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:32.097  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:32.098  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:32.098  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:32.845  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-item/page
+2025-06-16 01:28:32.845  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:32.845  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:32.845  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:32.847  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:32.848  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:32.848  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:33.479  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-level/all
+2025-06-16 01:28:33.479  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:33.479  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/page
+2025-06-16 01:28:33.479  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:33.479  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:33.479  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:33.480  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:33.480  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:33.483  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:33.483  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:33.483  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:33.483  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:33.483  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:33.483  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:33.927  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-record/page
+2025-06-16 01:28:33.927  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/user/page
+2025-06-16 01:28:33.928  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:33.928  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:33.928  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:33.928  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:33.928  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:33.928  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:33.930  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:33.931  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:33.931  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:33.931  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:33.931  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:33.931  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:36.803  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/health-manager/page
+2025-06-16 01:28:36.804  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:36.804  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:36.804  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:36.808  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:36.809  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:36.809  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:38.813  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/health-manager/customers/without-manager
+2025-06-16 01:28:38.813  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/health-manager/4/customers
+2025-06-16 01:28:38.813  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:38.813  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:38.813  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:38.813  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:38.814  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:38.814  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:38.816  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:38.816  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:38.817  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:38.817  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:38.817  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:38.817  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:43.596  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 处理请求: POST /api/api/admin/health-manager/set-customers
+2025-06-16 01:28:43.596  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:43.597  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:43.597  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:43.599  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:43.600  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:43.600  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:43.635  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.s.impl.HealthManagerServiceImpl    : 为健康管家设置服务客户，健康管家ID: 4, 客户ID列表: [11]
+2025-06-16 01:28:43.644  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.s.impl.HealthManagerServiceImpl    : 为客户 11 设置健康管家关联，影响行数: 1
+2025-06-16 01:28:43.644  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.s.impl.HealthManagerServiceImpl    : 成功为健康管家 4 设置了 1 个服务客户
+2025-06-16 01:28:43.667  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/health-manager/customers/without-manager
+2025-06-16 01:28:43.667  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/health-manager/4/customers
+2025-06-16 01:28:43.668  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:43.668  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:43.668  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:43.668  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:43.668  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:43.668  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:43.670  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:43.670  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:43.671  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:43.671  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:43.671  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:43.671  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:44.549  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/health-manager/page
+2025-06-16 01:28:44.549  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:44.550  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:44.550  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:44.552  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:44.552  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:44.553  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:46.988  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer/page
+2025-06-16 01:28:46.988  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:46.988  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:46.989  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:46.992  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:46.993  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:46.993  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:51.763  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/10
+2025-06-16 01:28:51.763  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:51.763  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:51.764  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:51.766  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-record/page
+2025-06-16 01:28:51.766  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:28:51.766  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:28:51.766  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:28:51.766  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:51.767  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:51.767  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:51.769  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:28:51.769  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:28:51.769  INFO 18556 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:29:44.654  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-record/page
+2025-06-16 01:29:44.654  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/10
+2025-06-16 01:29:44.655  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:29:44.655  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:29:44.655  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:29:44.655  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:29:44.655  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:29:44.655  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:29:44.659  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:29:44.659  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:29:44.660  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:29:44.660  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:29:44.660  INFO 18556 --- [http-nio-8080-exec-7] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:29:44.660  INFO 18556 --- [http-nio-8080-exec-5] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:30:15.008  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/10
+2025-06-16 01:30:15.008  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:30:15.008  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:30:15.008  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:30:15.011  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-record/page
+2025-06-16 01:30:15.011  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:30:15.011  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:30:15.012  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:30:15.012  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:30:15.012  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:30:15.012  INFO 18556 --- [http-nio-8080-exec-6] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:30:15.014  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:30:15.014  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:30:15.014  INFO 18556 --- [http-nio-8080-exec-8] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:31:36.622  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/care-record/page
+2025-06-16 01:31:36.622  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer-care/services/10
+2025-06-16 01:31:36.622  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:31:36.622  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:31:36.622  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:31:36.622  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:31:36.623  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:31:36.623  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:31:36.627  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:31:36.627  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:31:36.627  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:31:36.627  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:31:36.627  INFO 18556 --- [http-nio-8080-exec-10] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:31:36.627  INFO 18556 --- [http-nio-8080-exec-9] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:31:49.884  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/health-manager/page
+2025-06-16 01:31:49.884  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:31:49.884  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:31:49.884  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:31:49.887  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:31:49.888  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:31:49.888  INFO 18556 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:31:52.389  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer/page
+2025-06-16 01:31:52.389  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:31:52.389  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:31:52.389  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:31:52.392  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:31:52.393  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:31:52.393  INFO 18556 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:33:15.222  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer/page
+2025-06-16 01:33:15.222  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 01:33:15.222  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 01:33:15.223  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 01:33:15.225  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 01:33:15.226  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 01:33:15.226  INFO 18556 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 14:01:21.704  INFO 17228 --- [restartedMain] c.n.center.NursingCenterApplication      : Starting NursingCenterApplication using Java 17.0.2 on LAPTOP-AMB5CAJ4 with PID 17228 (D:\IdeaProjects\nursing-center-system\target\classes started by Morty in D:\IdeaProjects\nursing-center-system)
+2025-06-16 14:01:21.704  INFO 17228 --- [restartedMain] c.n.center.NursingCenterApplication      : No active profile set, falling back to 1 default profile: "default"
+2025-06-16 14:01:21.762  INFO 17228 --- [restartedMain] o.s.b.devtools.restart.ChangeableUrls    : The Class-Path manifest attribute in D:\repository\org\glassfish\jaxb\jaxb-runtime\2.3.1\jaxb-runtime-2.3.1.jar referenced one or more files that do not exist: file:/D:/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-api-2.3.1.jar,file:/D:/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/txw2-2.3.1.jar,file:/D:/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/istack-commons-runtime-3.0.7.jar,file:/D:/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/stax-ex-1.8.jar,file:/D:/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/FastInfoset-1.2.15.jar,file:/D:/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/javax.activation-api-1.2.0.jar
+2025-06-16 14:01:21.762  INFO 17228 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-06-16 14:01:21.762  INFO 17228 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-06-16 14:01:23.047  INFO 17228 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2025-06-16 14:01:23.055  INFO 17228 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-06-16 14:01:23.055  INFO 17228 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.78]
+2025-06-16 14:01:23.130  INFO 17228 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-06-16 14:01:23.130  INFO 17228 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1368 ms
+2025-06-16 14:01:24.207  INFO 17228 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@50fec4fa, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5f371d35, org.springframework.security.web.context.SecurityContextPersistenceFilter@7fba7c26, org.springframework.security.web.header.HeaderWriterFilter@3e72e84e, org.springframework.web.filter.CorsFilter@1e80568b, org.springframework.security.web.authentication.logout.LogoutFilter@7e33d3c2, com.nursing.center.security.JwtAuthenticationFilter@1a6990eb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7f591bf, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2af8c00f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6f039d02, org.springframework.security.web.session.SessionManagementFilter@320c2aa8, org.springframework.security.web.access.ExceptionTranslationFilter@24c0aef4, org.springframework.security.web.access.intercept.AuthorizationFilter@63801dff]
+2025-06-16 14:01:24.589  INFO 17228 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-06-16 14:01:24.637  INFO 17228 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2025-06-16 14:01:24.645  INFO 17228 --- [restartedMain] c.n.center.NursingCenterApplication      : Started NursingCenterApplication in 3.343 seconds (JVM running for 4.235)
+2025-06-16 14:11:01.225  INFO 17228 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-16 14:11:01.225  INFO 17228 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-06-16 14:11:01.225  INFO 17228 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-06-16 14:11:01.241  INFO 17228 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/customer/page
+2025-06-16 14:11:01.245  INFO 17228 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 14:11:01.245  INFO 17228 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 14:11:01.307  INFO 17228 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 14:11:01.348  WARN 17228 --- [http-nio-8080-exec-1] c.b.m.c.t.support.ReflectLambdaMeta      : Unable to make field private final java.lang.Class java.lang.invoke.SerializedLambda.capturingClass accessible: module java.base does not "opens java.lang.invoke" to unnamed module @21de60b4
+2025-06-16 14:11:01.364  INFO 17228 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-06-16 14:11:01.616  INFO 17228 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-06-16 14:11:01.669  INFO 17228 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 14:11:01.673  INFO 17228 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 14:11:01.673  INFO 17228 --- [http-nio-8080-exec-1] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 14:11:07.406  INFO 17228 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/user/page
+2025-06-16 14:11:07.406  INFO 17228 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 14:11:07.406  INFO 17228 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 14:11:07.406  INFO 17228 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 14:11:07.408  INFO 17228 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 14:11:07.414  INFO 17228 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 14:11:07.414  INFO 17228 --- [http-nio-8080-exec-2] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 14:11:08.171  INFO 17228 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/role/page
+2025-06-16 14:11:08.171  INFO 17228 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 14:11:08.171  INFO 17228 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 14:11:08.171  INFO 17228 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 14:11:08.179  INFO 17228 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 14:11:08.181  INFO 17228 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 14:11:08.181  INFO 17228 --- [http-nio-8080-exec-3] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 14:11:09.195  INFO 17228 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 处理请求: GET /api/api/admin/user/page
+2025-06-16 14:11:09.195  INFO 17228 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 从请求中获取到的JWT: 存在
+2025-06-16 14:11:09.195  INFO 17228 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : JWT格式验证: true
+2025-06-16 14:11:09.195  INFO 17228 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 从JWT中解析的用户名: admin
+2025-06-16 14:11:09.204  INFO 17228 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 加载用户详情: admin, 权限: [ROLE_ADMIN]
+2025-06-16 14:11:09.204  INFO 17228 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : JWT token验证结果: true
+2025-06-16 14:11:09.204  INFO 17228 --- [http-nio-8080-exec-4] c.n.c.security.JwtAuthenticationFilter   : 用户认证成功: admin, 权限: [ROLE_ADMIN]
+2025-06-16 14:25:09.528  INFO 17228 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-06-16 14:25:09.537  INFO 17228 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
